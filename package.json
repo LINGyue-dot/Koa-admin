@@ -1,0 +1,24 @@
+{
+  "name": "koa-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-cors": "^0.0.16",
+    "koa-json-error": "^3.1.2",
+    "koa-jwt": "^4.0.1",
+    "koa-parameter": "^3.0.1",
+    "koa-router": "^10.0.0",
+    "mongoose": "^5.13.7",
+    "nodemon": "^2.0.12"
+  }
+}
