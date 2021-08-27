@@ -19,6 +19,7 @@
     "koa-parameter": "^3.0.1",
     "koa-router": "^10.0.0",
     "mongoose": "^5.13.7",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "ws": "^8.2.0"
   }
 }
